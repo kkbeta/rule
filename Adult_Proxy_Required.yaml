@@ -1,0 +1,24 @@
+# NAME: Adult_Proxy_Required
+# AUTHOR: kkbb
+# REPO: custom-rules
+# UPDATED: 2026-04-19
+# DESCRIPTION: Sites that must be accessed through proxy
+# PAYLOAD: 16
+
+payload:
+  - DOMAIN-SUFFIX,javbus.com
+  - DOMAIN-SUFFIX,jav321.com
+  - DOMAIN-SUFFIX,javlibrary.com
+  - DOMAIN-SUFFIX,mywife.cc
+  - DOMAIN-SUFFIX,giga-web.jp
+  - DOMAIN-SUFFIX,freejavbt.com
+  - DOMAIN-SUFFIX,mdtv.com
+  - DOMAIN-SUFFIX,madouqu.com
+  - DOMAIN-SUFFIX,7mmtv.tv
+  - DOMAIN-SUFFIX,dahlia-av.jp
+  - DOMAIN-SUFFIX,theporndb.net
+  - DOMAIN-SUFFIX,cnmdb.com
+  - DOMAIN-SUFFIX,fantastica-av.com
+  - DOMAIN-SUFFIX,kin8tengoku.com
+  - DOMAIN-SUFFIX,m-team.cc
+  - DOMAIN-SUFFIX,m-team.io
