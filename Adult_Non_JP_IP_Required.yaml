@@ -1,0 +1,11 @@
+# NAME: Adult_Non_JP_IP_Required
+# AUTHOR: kkbb
+# REPO: custom-rules
+# UPDATED: 2026-04-19
+# DESCRIPTION: Sites that require non-Japan egress IP
+# PAYLOAD: 3
+
+payload:
+  - DOMAIN-SUFFIX,javdb.com
+  - DOMAIN-SUFFIX,airav.cc
+  - DOMAIN-SUFFIX,fc2hub.com
